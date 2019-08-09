@@ -1,0 +1,2 @@
+# KoreanInput
+Pygame Korean Input
